@@ -2,6 +2,8 @@
 
 Aplicação de controle financeiro desenvolvida por **Lucas Ferreira Silva**,
 estudante de **Análise e Desenvolvimento de Sistemas**.
+🔗 Acesse o projeto:  
+https://lucasferreiraprogramador.github.io/dev.finances.maratona/
 
 ---
 
@@ -26,6 +28,10 @@ Você pode visualizar o layout do projeto através do Figma.
 É necessário ter conta para acessá-lo.
 
 ---
+## 👤 Autor
+- [Lucas Ferreira](https://lucas.ferreiradev.com/)
+- [GitHub](https://github.com/LucasFerreiraProgramador)
+- [LinkedIn](https://www.linkedin.com/in/lucasferreira-dev-front-end/)
 
 ## 📝 Licença
 Esse projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
